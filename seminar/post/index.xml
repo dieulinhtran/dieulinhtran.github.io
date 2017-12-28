@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on IBUG seminar</title>
-    <link>https://dieulinhtran.github.io/seminar/post/</link>
+    <link>aseURL/post/</link>
     <description>Recent content in Posts on IBUG seminar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017 Linh Tran</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
-    <atom:link href="/seminar/post/" rel="self" type="application/rss+xml" />
+    <atom:link href="aseURL/post/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Generative Adversarial Networks</title>
-      <link>https://dieulinhtran.github.io/seminar/post/gan/</link>
+      <link>aseURL/post/gan/</link>
       <pubDate>Thu, 28 Dec 2017 19:19:31 +0100</pubDate>
       
-      <guid>https://dieulinhtran.github.io/seminar/post/gan/</guid>
+      <guid>aseURL/post/gan/</guid>
       <description>&lt;p&gt;Test formula:
 $$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi$$&lt;/p&gt;
 </description>
