@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on IBUG seminar</title>
-    <link>https://dieulinhtran.github.io/home/</link>
+    <link>https://dieulinhtran.github.io/seminar/home/</link>
     <description>Recent content in Homes on IBUG seminar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017 Linh Tran</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    <atom:link href="/seminar/home/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
