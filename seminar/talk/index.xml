@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on IBUG seminar</title>
-    <link>aseURL/talk/</link>
+    <link>https://dieulinhtran.github.io/seminar/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on IBUG seminar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017 Linh Tran</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="aseURL/talk/" rel="self" type="application/rss+xml" />
+    <atom:link href="/seminar/talk/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Generative Adversarial Networks</title>
-      <link>aseURL/talk/gan/</link>
+      <link>https://dieulinhtran.github.io/seminar/talk/gan/</link>
       <pubDate>Thu, 28 Dec 2017 16:27:05 +0100</pubDate>
       
-      <guid>aseURL/talk/gan/</guid>
+      <guid>https://dieulinhtran.github.io/seminar/talk/gan/</guid>
       <description>&lt;p&gt;Dino will do something &amp;hellip;&lt;/p&gt;
 </description>
     </item>
